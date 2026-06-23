@@ -9,7 +9,7 @@
 
 ### Installation
 
-```bash
+```
 # Clone the repository
 git clone <repository-url>
 cd sentinel
